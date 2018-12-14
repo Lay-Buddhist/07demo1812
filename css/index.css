@@ -1,0 +1,47 @@
+.title {
+    font-size: 41px;
+    margin-top: 30px;
+}
+.description {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.demo-ct {
+    margin-bottom: 30px;
+}
+.demo-ct>li {
+    display: inline-block;
+}
+.btn {
+    display: inline-block;
+    margin: 3px;
+    padding: 6px 14px;
+    font-weight: normal;
+    border-radius: 2px;
+    background-color: #72b890;
+    color: #fff;
+    cursor: pointer;
+    transition: all 0.5s linear;
+}
+.btn:hover {
+    background-color:#375f48;
+    color: #cccccc;
+    box-shadow: 0 0 10px 1px;
+}
+.operate-ct {
+    margin-top: 30px;
+}
+.operate-ct>li {
+    display: inline-block;
+}
+footer {
+    color: #aaa;
+    margin-top: 30px;
+}
+.ft a{
+    color: #72b890;
+}
+.good {
+    margin-top: 30px;
+    background-color: rgba(190,0,0,1);
+}
